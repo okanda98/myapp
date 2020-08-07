@@ -17,7 +17,7 @@ public class ActivityOne extends AppCompatActivity {
         txtView.setText(R.string.Msg2);
 
 
-        Log.i("Lifecycle","OnCreate() method invoked" );
+        Log.i("Lifecycle","OnCreate()  invoked" );
     }
 
     @Override
